@@ -46,13 +46,13 @@ A seasoned Quality Assurance professional with over 10 years of experience in th
 
 ## Project Experience
 
-- 💊 [FDA inspections Analysis](https://github.com/raviteja-padala1989/DATA_ANALYSIS/tree/main/FDA_inspection_analysis/FDA_inspection_analysis_with_PowerBI)
-- 🌍 [WHO Disease Outbreak Analysis](https://github.com/raviteja-padala1989/DATA_ANALYSIS/tree/main/WHO_Disease_Outbreak_Analysis)
-- 🏭 [Pencillin Manufcturing Analysis](https://github.com/raviteja-padala1989/Industrial_Penicillin/blob/main/Analysis-of-Industrial-scale-penicillin-simulation.ipynb)
-- 🛢 [Six Sigma project](https://github.com/raviteja-padala1989/Six_Sigma/tree/main/Bank_Call_Center_project)
+- 💊 [FDA inspections Analysis](https://github.com/raviteja-padala1989/DATA_ANALYSIS/tree/master/FDA_inspection_analysis/FDA_inspection_analysis_with_PowerBI)
+- 🌍 [WHO Disease Outbreak Analysis](https://github.com/raviteja-padala1989/DATA_ANALYSIS/tree/master/WHO_Disease_Outbreak_Analysis)
+- 🏭 [Pencillin Manufcturing Analysis](https://github.com/raviteja-padala1989/Industrial_Penicillin)
+- 🛢 [Six Sigma project](https://github.com/raviteja-padala1989/Six_Sigma)
 - 💊 [Personalized Medical Expenses Prediction](https://github.com/raviteja-padala/Personalised_Medical_Expenses)
 - 📑 [Medical Text Classification for Healthcare Data](https://github.com/raviteja-padala/NLP/blob/main/Text_Classification/Medical_Text_classification_Healthcare_data.ipynb)
-- 🚚 [Supply Chain Analysis](https://github.com/raviteja-padala/DATA_ANALYSIS/tree/main/Supply_Chain_Analysis)
+- 🚚 [Supply Chain Analysis](https://github.com/raviteja-padala1989/DATA_ANALYSIS/tree/master/Supply_Chain_Analysis)
 
 ---
 
