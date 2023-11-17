@@ -20,26 +20,18 @@ A seasoned Quality Assurance professional with over 10 years of experience in th
 * **Regulatory Compliance:** Well-versed in cGMP and GxP regulations, ensuring product and process compliance.
 * **Data-Driven Methodologies:** Utilizes data analysis and Six Sigma techniques to optimize processes and drive continuous improvement.
 
-## Core Competencies:
 
-- 📉 Six Sigma
-- 🧫 Microbiology
-- 👥 Team Building
-- 🛠️ Change Controls
-- 🔄 Deviation Handling
-- 🔍 Root Cause Analysis
-- 💉 Vaccine Formulation
-- 🌐 Technology Transfer
-- 🔄 Process Improvement
-- 📚 Training and Development
-- 🔄 Lean Six Sigma Methodologies
-- 📊 Data Analysis and Visualization
-- 🏭 Good Manufacturing Practice (GMP)
-- 📑 Standard Operating Procedure (SOP)
-- 🛑 Corrective and Preventive Action (CAPA)
-- 💻 Quality Assurance and Regulatory Compliance
-- 💉 Sterile Manufacturing and Process Optimization
-- 👥 Project Management and Cross-Functional Collaboration
+## Core Competencies
+
+|                           |                           |                           |
+|---------------------------|---------------------------|---------------------------|
+| 📉 Six Sigma               | 🧫 Microbiology           | 👥 Team Building           |
+| 🛠️ Change Controls        | 🔄 Deviation Handling      | 🔍 Root Cause Analysis     |
+| 💉 Vaccine Formulation     | 🌐 Technology Transfer    | 🔄 Process Improvement    |
+| 📚 Training and Development | 🔄 Lean Six Sigma Methodologies | 📊 Data Analysis and Visualization |
+| 🏭 Good Manufacturing Practice (GMP) | 📑 Standard Operating Procedure (SOP) | 🛑 Corrective and Preventive Action (CAPA) |
+| 💻 Quality Assurance and Regulatory Compliance | 💉 Sterile Manufacturing and Process Optimization | 👥 Project Management and Cross-Functional Collaboration |
+
 
 
 ## Technical Skills
@@ -55,9 +47,9 @@ A seasoned Quality Assurance professional with over 10 years of experience in th
 ## Project Experience
 
 - 💊 [FDA inspections Analysis](https://github.com/raviteja-padala1989/DATA_ANALYSIS/tree/main/FDA_inspection_analysis/FDA_inspection_analysis_with_PowerBI)
-- 🌍 [WHO Disease Outbreak Analysis](https://github.com/raviteja-padala/DATA_ANALYSIS/tree/main/WHO_Disease_Outbreak_Analysis)
-- 🏭 [Pencillin Manufcturing Analysis](https://github.com/raviteja-padala/Industrial_Penicillin/blob/main/Analysis-of-Industrial-scale-penicillin-simulation.ipynb)
-- 🛢 [Six Sigma project](https://github.com/raviteja-padala/Six_Sigma/tree/main/Bank_Call_Center_project)
+- 🌍 [WHO Disease Outbreak Analysis](https://github.com/raviteja-padala1989/DATA_ANALYSIS/tree/main/WHO_Disease_Outbreak_Analysis)
+- 🏭 [Pencillin Manufcturing Analysis](https://github.com/raviteja-padala1989/Industrial_Penicillin/blob/main/Analysis-of-Industrial-scale-penicillin-simulation.ipynb)
+- 🛢 [Six Sigma project](https://github.com/raviteja-padala1989/Six_Sigma/tree/main/Bank_Call_Center_project)
 - 💊 [Personalized Medical Expenses Prediction](https://github.com/raviteja-padala/Personalised_Medical_Expenses)
 - 📑 [Medical Text Classification for Healthcare Data](https://github.com/raviteja-padala/NLP/blob/main/Text_Classification/Medical_Text_classification_Healthcare_data.ipynb)
 - 🚚 [Supply Chain Analysis](https://github.com/raviteja-padala/DATA_ANALYSIS/tree/main/Supply_Chain_Analysis)
